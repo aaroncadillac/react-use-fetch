@@ -1,6 +1,6 @@
 {
   "name": "@aaroncadillac/react-use-fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple way to use fetch into react apps, wrapped as a hook",
   "main": "use-fetch.js",
   "author": "aaroncadillac",
