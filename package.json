@@ -1,0 +1,28 @@
+{
+  "name": "react-use-fetch",
+  "version": "1.0.0",
+  "description": "A simple way to use fetch into react apps, wrapped as a hook",
+  "main": "use-fetch.js",
+  "author": "aaroncadillac",
+  "license": "MPL-2.0",
+  "private": true,
+  "type": "module",
+  "licenses": [
+    {
+      "type": "MPL-2.0",
+      "url": "https://www.mozilla.org/en-US/MPL/2.0/"
+    }
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.5",
+    "@testing-library/react-hooks": "^8.0.1",
+    "babel-jest": "^29.7.0",
+    "install": "^0.13.0",
+    "npm": "^10.8.0",
+    "react": "^18.3.1",
+    "react-test-renderer": "^18.3.1"
+  }
+}
