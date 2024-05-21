@@ -1,11 +1,10 @@
 {
-  "name": "react-use-fetch",
+  "name": "@aaroncadillac/react-use-fetch",
   "version": "1.0.0",
   "description": "A simple way to use fetch into react apps, wrapped as a hook",
   "main": "use-fetch.js",
   "author": "aaroncadillac",
   "license": "MPL-2.0",
-  "private": true,
   "type": "module",
   "licenses": [
     {
@@ -24,5 +23,22 @@
     "npm": "^10.8.0",
     "react": "^18.3.1",
     "react-test-renderer": "^18.3.1"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaroncadillac/react-use-fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "react-hooks",
+    "react-fetch-hook",
+    "data"
+  ],
+  "bugs": {
+    "url": "https://github.com/aaroncadillac/react-use-fetch/issues"
+  },
+  "homepage": "https://github.com/aaroncadillac/react-use-fetch#readme"
 }

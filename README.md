@@ -20,12 +20,12 @@ Bash
 
 Using npm
 ```bash
-npm install react-use-fetch
+npm i @aaroncadillac/react-use-fetch
 ```
 
 Using Yarn
 ```bash
-yarn install react-use-fetch
+yarn add @aaroncadillac/react-use-fetch
 ```
 
 ## Usage
